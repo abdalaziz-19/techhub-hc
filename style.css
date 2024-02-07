@@ -203,6 +203,10 @@ margin-bottom: 3rem;
 }
 
 @media (max-width: 480px) {
+    header .nav-bar{
+        margin-right: 0;
+    }
+    
     .hero-section .main-text h1{
         font-size: 2rem;
     }
