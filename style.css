@@ -170,11 +170,12 @@ margin-bottom: 3rem;
     header .nav-bar{
         margin-right: 2rem;
     }
+    
     header .nav-bar .nav-bar-icon{
         display: block;
         margin-bottom: 1rem;
     }
-
+    
     header .nav-bar ul{
         display: block;
         position: absolute;
@@ -206,6 +207,14 @@ margin-bottom: 3rem;
     header .nav-bar{
         margin-right: 0;
     }
+
+    header {
+    padding: 1.5rem;
+   }
+    
+    .container {
+    padding: 1rem;
+   }
     
     .hero-section .main-text h1{
         font-size: 2rem;
